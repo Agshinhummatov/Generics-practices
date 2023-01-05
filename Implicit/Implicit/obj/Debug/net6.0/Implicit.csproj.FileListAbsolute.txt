@@ -1,0 +1,15 @@
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\bin\Debug\net6.0\Implicit.exe
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\bin\Debug\net6.0\Implicit.deps.json
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\bin\Debug\net6.0\Implicit.runtimeconfig.json
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\bin\Debug\net6.0\Implicit.dll
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\bin\Debug\net6.0\Implicit.pdb
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.dll
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\refint\Implicit.dll
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.pdb
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\Implicit.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\implict\Implicit\Implicit\obj\Debug\net6.0\ref\Implicit.dll
